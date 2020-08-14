@@ -33,7 +33,7 @@
     "jsfeat": "git+https://github.com/inspirit/jsfeat",
     "numeric": "^1.2.6",
     "mosse": "^0.1.1",
-    "raf": "^3.3.2",
+    "raf": "^3.4.1",
     "promise-polyfill": "^6.0.2"
   }
 }
